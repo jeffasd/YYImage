@@ -1,3 +1,5 @@
+测试的时候把image.zip解压缩，把解压后的文件放到沙盒 document下
+
 这个demo在合成gif时用的是ImageIO，同时并没有避免ImageIO的通病，合成gif占用内存极大，另外合成的gif的图片质量也不好，
 
 YYImage <a href="#中文介绍">中文介绍</a>
